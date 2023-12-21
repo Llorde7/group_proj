@@ -1,0 +1,12 @@
+<!-- game_app/templates/game_over.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Over</title>
+</head>
+<body>
+    <h1>Game Over</h1>
+    <p>{{ result }}</p>
+</body>
+</html>
